@@ -1,11 +1,16 @@
 	Branch is 'Halo-2-Project-Cartographer'
 
-So there is 3 different installer 🤷‍ 
+2 different installer; FOR Cartographer, yes
 They all work 
-Clean ;?; i absolutly do not know
-In main there is extra files; 
-;:modding tools
-;:mods
-;:anything in between the Game and the ability to play it.
+Clean ;?; They should be :)
 
+So choose one;
+	Halo-2\Installers\cartographer_installer_2.0
+	Halo-2\Installers\cartographer_manual_update
 
+OR; have it whitout an installer 🤷‍ 
+	Halo-2\Portable_Install-dir\parts
+		Halo 2 Project Cartographer.part01.exe
+		:: and its 20 parts ::
+
+	
